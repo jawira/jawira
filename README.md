@@ -6,3 +6,6 @@
 <a href="https://credly.com/users/jawira">
   <img src="https://credly-img.tugal.be/badges.svg?user=jawira"/>
 </a>
+
+![Codewars](https://www.codewars.com/users/jawira/badges/small)
+
