@@ -1,4 +1,4 @@
-<h2 align="center">Jawira Portugal</h2>
+<h1 align="center">Jawira Portugal</h1>
 
 ### :fire: My GitHub stats
 
