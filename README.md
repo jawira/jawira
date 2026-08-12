@@ -2,7 +2,9 @@
 
 ### :fire: My GitHub stats
 
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jawira?cardType=level-alternate&fontFamily=&preferLogin=false)
+![jawira's GitHub Stats](https://readme-stats-github.pages.dev/api?username=jawira&theme=shadow)
+
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=jawira&theme=shadow)
 
 ---
 
