@@ -12,6 +12,7 @@
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original-wordmark.svg" alt="Python" width="32"/>
+  <img src="https://astral.sh/static/favicon-32x32.png" alt="Astral UV" width="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" alt="PHP" width="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/symfony/symfony-original-wordmark.svg" alt="Symfony" width="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/doctrine/doctrine-original-wordmark.svg" alt="Doctrine ORM" width="32"/>
