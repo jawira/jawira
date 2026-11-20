@@ -1,6 +1,6 @@
 <h1 align="center">Jawira Portugal</h1>
 
-### :fire: My GitHub stats
+### My GitHub stats
 
 ![jawira's GitHub Stats](https://readme-stats-github.pages.dev/api?username=jawira&theme=shadow)
 
@@ -8,7 +8,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and tools I use
+### Languages and tools I use
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original-wordmark.svg" alt="Python" width="32"/>
@@ -29,7 +29,7 @@
 
 ---
 
-### :scroll: Certifications and training
+### Certifications and training
 
 <a href="https://credly.com/users/jawira">
   <img src="https://credly-img.tugal.be/badges.svg?user=jawira"/>
@@ -37,13 +37,13 @@
 
 ---
 
-### :martial_arts_uniform: Codewars rank
+### Codewars rank
 
 [![Codewars](https://www.codewars.com/users/jawira/badges/large)](https://www.codewars.com/users/jawira)
 
 ---
 
-### :technologist: Developer life
+### Developer life
 
 <div>
   <img width=300 src="https://i.imgflip.com/4fykb2.jpg" alt="meme">
